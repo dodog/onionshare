@@ -91,7 +91,7 @@ class Settings(object):
             "ru": "Русский",  # Russian
             "sn": "chiShona",  # Shona
             # "sr_Latn": "Srpska (latinica)",  # Serbian (latin)
-            # "sk": "Slovenčina",  # Slovak
+            "sk": "Slovenčina",  # Slovak
             "es": "Español",  # Spanish
             "sw": "Kiswahili",  # Swahili
             "sv": "Svenska",  # Swedish
